@@ -12,7 +12,10 @@
   * [Terraform - AWS VPC Module]()   
   * [Terraform - AWS ElasticBeanstalk with RDS and Route53]()    
 * [Kubernetes]()  
-  * [List and delete pvc older than retention date]()   
+  * [List and delete pvc older than retention date]()
+
+* [Data Analysis](https://github.com/codeddamian/Data-Analyst)  
+* [SQL](https://github.com/codeddamian/Data-Analysis)
 
 
 #### For communications:  
