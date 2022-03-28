@@ -14,8 +14,8 @@
 * [Kubernetes]()  
   * [List and delete pvc older than retention date]()
 
-* [Data Analysis](https://github.com/codeddamian/Data-Analyst)  
-* [SQL](https://github.com/codeddamian/Data-Analysis)
+* [SQL](https://github.com/codeddamian/Data-Analyst)  
+* [Data Analysis with Power BI DAX & Tableau](https://github.com/codeddamian/Data-Analysis)
 
 
 #### For communications:  
