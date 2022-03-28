@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Damian Odoh
--
-- 🌱 I’m currently learning Ansible and Docker
-- 💞️ I’m looking to collaborate on Project to automate scripts 
-- 📫 How to reach me --> Damianodoh@outlook.com
+### Hi there, I'm Damian 👋
+#### These are some of my projects:  
+* [AWS Projects](https://github.com/codeddamian/AWS-Cloud-Architect)   
+  * [AWS Cloudformation lab]()  
+  * [AWS Jumpbox lab](https://github.com/codeddamian/AWS-Projects/blob/main/Jump%20Box%20Project/ReadMe2.md)   
+    
+* [Ansible Projects]()  
+  * [Ansible Lab]()
+* [Kodekloud Solutions]()  
+  * [Deploy Voting App on Kubernetes]()  
+* [Terraform]()
+  * [Terraform - AWS VPC Module]()   
+  * [Terraform - AWS ElasticBeanstalk with RDS and Route53]()    
+* [Kubernetes]()  
+  * [List and delete pvc older than retention date]()   
 
-<!---
-codeddamian/codeddamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### For communications:  
+[<img align="left" alt="Damian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/damianodoh
